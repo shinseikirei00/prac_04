@@ -8,3 +8,4 @@ print("The last number is", numbers[-1])
 print("the smallest number is", min(numbers))
 print("The largest number is", max(numbers))
 print("the average is", sum(numbers)/float(len(numbers)))
+# Jan crooks has been here
